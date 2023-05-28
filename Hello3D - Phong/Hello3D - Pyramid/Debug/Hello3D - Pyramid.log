@@ -1,0 +1,15 @@
+﻿  glad.c
+  Mesh.cpp
+  Origem.cpp
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(57,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(146,27): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(263,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(264,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(268,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(269,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(270,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Hello3D - Pyramid\Origem.cpp(271,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Shader.cpp
+  Gerando Código...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Hello3D - Pyramid.vcxproj -> C:\Users\marol\Desktop\CG2023-1\Hello3D - Phong\Debug\Hello3D - Phong.exe
